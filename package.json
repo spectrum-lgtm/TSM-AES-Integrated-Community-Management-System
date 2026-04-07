@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@expo-google-fonts/open-sans": "^0.2.3",
+    "axios": "^1.6.0",
+    "expo-constants": "~14.4.2",
+    "expo-device": "~5.4.0",
+    "expo-notifications": "~0.20.1",
+    "native-notify": "^3.2.4",
+    "react-native-vector-icons": "^10.0.1",
+    "react-native-webview": "13.2.2"
+  },
+  "name": "taman-sinar-mahkota-residential-system",
+  "version": "1.0.0",
+  "main": "./Asset/style.css/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "index": "Asset/style.css/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
